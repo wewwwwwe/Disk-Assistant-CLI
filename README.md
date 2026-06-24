@@ -6,8 +6,6 @@
 
 > Powerful Windows command-line utility for disk management, diagnostics, maintenance, and storage protection.
 
-![Disk Assistant CLI Banner](Assets/social-preview.png)
-
 ## Overview
 
 Disk Assistant CLI is an interactive Windows command-line toolkit designed to simplify common disk management and maintenance tasks. Built with batch scripting, it provides a convenient and user-friendly interface for managing storage devices directly from the terminal.
