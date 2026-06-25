@@ -33,11 +33,11 @@ The tool allows users to format USB drives, securely erase internal disks, monit
 ## Usage
 
 1. Download the latest release or clone the repository.
-2. Run `Disk Assistant CLI_v1.bat` as **Administrator**.
+2. Run `Disk Assistant CLI.bat` as **Administrator**.
 3. Follow the on-screen instructions.
 
 ```bat
-Disk Assistant CLI_v1.bat
+Disk Assistant CLI.bat
 ```
 
 ## Warning
@@ -51,7 +51,7 @@ Disk Assistant CLI_v1.bat
 ```text
 .
 ├── Assets/
-├── Disk Assistant CLI_v1.bat
+├── Disk Assistant CLI.bat
 ├── README.md
 └── LICENSE
 ```
